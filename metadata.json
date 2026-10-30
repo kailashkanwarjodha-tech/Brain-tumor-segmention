@@ -1,0 +1,6 @@
+{
+  "name": "Brain Tumor Segmentation from MRI Scans Using Deep Learning",
+  "description": "Production-grade medical imaging platform and Streamlit pipeline for brain tumor MRI segmentation using deep convolutional U-Net architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
